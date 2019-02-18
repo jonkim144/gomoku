@@ -1,16 +1,13 @@
 {
-  "main.css": "/gomoku/static/css/main.73b839a7.chunk.css",
-  "main.js": "/gomoku/static/js/main.b173deb0.chunk.js",
-  "main.js.map": "/gomoku/static/js/main.b173deb0.chunk.js.map",
-  "static/js/1.23c35d8f.chunk.js": "/gomoku/static/js/1.23c35d8f.chunk.js",
-  "static/js/1.23c35d8f.chunk.js.map": "/gomoku/static/js/1.23c35d8f.chunk.js.map",
+  "main.css": "/gomoku/static/css/main.c433036a.chunk.css",
+  "main.js": "/gomoku/static/js/main.0ece5fcd.chunk.js",
+  "main.js.map": "/gomoku/static/js/main.0ece5fcd.chunk.js.map",
+  "static/js/1.1e60e41b.chunk.js": "/gomoku/static/js/1.1e60e41b.chunk.js",
+  "static/js/1.1e60e41b.chunk.js.map": "/gomoku/static/js/1.1e60e41b.chunk.js.map",
   "runtime~main.js": "/gomoku/static/js/runtime~main.b0aa9fe9.js",
   "runtime~main.js.map": "/gomoku/static/js/runtime~main.b0aa9fe9.js.map",
-  "static/css/main.73b839a7.chunk.css.map": "/gomoku/static/css/main.73b839a7.chunk.css.map",
-  "static/media/board.svg": "/gomoku/static/media/board.a7ebdc24.svg",
-  "static/media/white-piece.svg": "/gomoku/static/media/white-piece.513de868.svg",
-  "static/media/black-piece.svg": "/gomoku/static/media/black-piece.029d504d.svg",
+  "static/css/main.c433036a.chunk.css.map": "/gomoku/static/css/main.c433036a.chunk.css.map",
   "index.html": "/gomoku/index.html",
-  "precache-manifest.da7727a06c995e18b18fc9008f95b044.js": "/gomoku/precache-manifest.da7727a06c995e18b18fc9008f95b044.js",
+  "precache-manifest.ad499222cb6c7a947af1455ca5f14685.js": "/gomoku/precache-manifest.ad499222cb6c7a947af1455ca5f14685.js",
   "service-worker.js": "/gomoku/service-worker.js"
 }
