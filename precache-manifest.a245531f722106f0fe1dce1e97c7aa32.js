@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/gomoku/static/js/runtime~main.b0aa9fe9.js"
   },
   {
-    "revision": "c803529e851e2ddd47b7",
-    "url": "/gomoku/static/js/main.c803529e.chunk.js"
+    "revision": "f95443b46641644f5094",
+    "url": "/gomoku/static/js/main.f95443b4.chunk.js"
   },
   {
     "revision": "1e60e41b319ce9753b2c",
     "url": "/gomoku/static/js/1.1e60e41b.chunk.js"
   },
   {
-    "revision": "c803529e851e2ddd47b7",
-    "url": "/gomoku/static/css/main.c433036a.chunk.css"
+    "revision": "f95443b46641644f5094",
+    "url": "/gomoku/static/css/main.98a91a94.chunk.css"
   },
   {
-    "revision": "00e031f323a941e83feb4785c6d911cf",
+    "revision": "3bb68b34df441ce7c4f3975f376cbd2b",
     "url": "/gomoku/index.html"
   }
 ];
